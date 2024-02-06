@@ -1,0 +1,19 @@
+{
+  "name": "slotmpracproj",
+  "version": "1.0.0",
+  "description": "Practice project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/J-AI-Code/slotMachinePractice.git"
+  },
+  "author": "J.AI.Code.Inc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/J-AI-Code/slotMachinePractice/issues"
+  },
+  "homepage": "https://github.com/J-AI-Code/slotMachinePractice#readme"
+}
